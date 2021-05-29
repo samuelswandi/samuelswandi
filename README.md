@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Samuel Christopher Swandi
+- #👋 Hi, I’m Samuel Christopher Swandi
 - 👀 I’m interested in Web Development and Data Science
 - 🌱 I’m currently learning HTML, CSS, and JS
 - 📫 How to reach me :
