@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/sahabatsem
 [instagram]: https://www.instagram.com/sc_s_/
-[linkedin]: https://www.linkedin.com/in/samuel-christopher-swandi-0b980219b/
+[linkedin]: www.linkedin.com/in/samuelswandi
