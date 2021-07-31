@@ -4,7 +4,7 @@
 
 ## I am Samuel Christopher Swandi, CS student at *STEI ITB*
 
-- 👀 I’m interested in Web Development, Data Science, and Software Engineering.
+- 👀 I’m interested in Data Science and Software Engineering.
 - 🌱 Currently learning HTML, CSS, JS, Python, and C++
 
 
