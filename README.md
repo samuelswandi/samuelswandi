@@ -5,7 +5,7 @@
 ## I am Samuel Christopher Swandi, CS student at *STEI ITB*
 
 - 👀 I’m interested in Data Science and Software Engineering.
-- 🌱 Currently learning React, Node, and Js :D
+- 🌱 Currently learning React, Node, and Js
 
 
 #### Connect with me:
