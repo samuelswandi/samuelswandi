@@ -1,6 +1,14 @@
 # Hi, I am Samuel Christopher Swandi, CS student at *ITB*
  I'm in love with learning new things especially in technology. Currently, i'm interested in software development world, focusing in web development.
  
+## Experiences
+| Roles | Type | Company/Institution | Duration |
+| --- | --- | --- | --- |
+| Software Engineer | Internship | [Ruangguru](https://www.ruangguru.com/) | Jan 2022 - Present|
+| Lead Programmer | Part-time | [Ganesha ICC](https://www.ganeshaicc.web.id/) | Nov 2021 - Present |
+| Software Engineer | Part-time | [Internnet Indonesia](http://internnetindonesia.com/) | Oct 2021 - Present |
+| Frontend Developer | Internship | [Ecomindo](https://www.ecomindo.com/) | Nov 2021 - Jan 2022 |
+| Software Engineer | Internship | [Wilov](https://wilov.co.id/) | May 2021 - Aug 2021 |
  
 ## Tech Stack
 Used mainly:
