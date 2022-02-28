@@ -6,7 +6,7 @@
 | --- | --- | --- | --- |
 | Software Engineer | Internship | [Ruangguru](https://www.ruangguru.com/) | Jan 2022 - Present|
 | Lead Programmer | Part-time | [Ganesha ICC](https://www.ganeshaicc.web.id/) | Nov 2021 - Present |
-| Software Engineer | Part-time | [Internnet Indonesia](http://internnetindonesia.com/) | Oct 2021 - Present |
+| Software Engineer | Part-time | [Internnet Indonesia](http://www.internnetindonesia.com/) | Oct 2021 - Present |
 | Frontend Developer | Internship | [Ecomindo](https://www.ecomindo.com/) | Nov 2021 - Jan 2022 |
 | Software Engineer | Internship | [Wilov](https://wilov.co.id/) | May 2021 - Aug 2021 |
  
