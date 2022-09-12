@@ -4,8 +4,9 @@
 ## Experiences
 | Roles | Type | Company/Institution | Duration |
 | --- | --- | --- | --- |
-| Software Engineer (Backend) | Internship | Garena | May 2022 - Present |
-| Software Engineer Team Lead | Part-time | [Internnet Indonesia](http://www.internnetindonesia.com/) | Oct 2021 - Present |
+| Software Engineer | Internship | [Tokopedia](http://www.tokopedia.com/) | Aug 2022 - Present |
+| Chief Of Technology | Part-time | [Internnet Indonesia](http://www.internnetindonesia.com/) | Oct 2021 - Present |
+| Software Engineer (Backend) | Internship | [Garena](https://www.garena.sg/) | May 2022 - Aug 2022 |
 | Software Engineer Team Lead | Part-time | [Ganesha ICC](https://www.ganeshaicc.web.id/) | Nov 2021 - Jan 2022 |
 | Software Engineer (Backend) | Internship | [Ruangguru](https://www.ruangguru.com/) | Jan 2022 - Mar 2022 |
 | Software Engineer (Frontend) | Internship | [Ecomindo](https://www.ecomindo.com/) | Nov 2021 - Jan 2022 |
