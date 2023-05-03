@@ -1,5 +1,7 @@
 # Hi, I am Samuel Christopher Swandi, CS student at *ITB*
- I'm in love with learning new things especially in technology. Currently, i'm interested in software development world, focusing in web development.
+ I'm in love with learning new things especially in technology. Currently, i'm interested in software development world, focusing in web development. <br>
+ My other profiles: https://gitlab.informatika.org/13520075 <br>
+ Current active projects: https://github.com/split-rex
  
 ## Experiences
 | Roles | Type | Company/Institution | Duration |
@@ -71,7 +73,6 @@ Additional skills:
 <img src="https://aleen42.github.io/badges/src/photoshop.svg?style=for-the-badge&logo=appveyor" />
 <img src="https://aleen42.github.io/badges/src/after_effects.svg?style=for-the-badge&logo=appveyor" />
 <img src="https://aleen42.github.io/badges/src/premiere.svg?style=for-the-badge&logo=appveyor" />
-
 
 My social media:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/samuelswandi/)
