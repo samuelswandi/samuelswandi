@@ -1,7 +1,6 @@
 # Hi, I am Samuel Christopher Swandi, CS student at *ITB*
- I'm in love with learning new things especially in technology. Currently, i'm interested in software development world, focusing in web development. <br>
- My other profiles: https://gitlab.informatika.org/13520075 <br>
- Current active projects: https://github.com/split-rex
+I'm highly passionate about programming, mainly in full-stack development. I am also in the top 1% on IEEExtreme 16.0 & an Honorable mention of the National Hackathon.<br>
+ My other profiles: https://gitlab.informatika.org/13520075 ; https://leetcode.com/samuelswandi/ <br>
  
 ## Professional Experiences
 | Roles | Type | Company/Institution | Duration |
