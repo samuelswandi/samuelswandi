@@ -1,23 +1,7 @@
 # Hi, I am Samuel Christopher Swandi, CS student at *ITB*
 I'm highly passionate about programming, mainly in full-stack development. I am also in the top 1% on IEEExtreme 16.0 & an Honorable mention of the National Hackathon.<br>
- My other profiles: https://gitlab.informatika.org/13520075 ; https://leetcode.com/samuelswandi/ <br>
- 
-## Professional Experiences
-| Roles | Type | Company/Institution | Duration |
-| --- | --- | --- | --- |
-| Software Engineer | Internship | [Tokopedia](http://www.tokopedia.com/) | Sep 2022 - March 2023 |
-| Software Engineer (Backend) | Internship | [Garena](https://www.garena.sg/) | May 2022 - Aug 2022 |
-| Software Engineer (Backend) | Internship | [Ruangguru](https://www.ruangguru.com/) | Jan 2022 - Apr 2022 |
-| Software Engineer (Frontend) | Internship | [Ecomindo](https://www.ecomindo.com/) | Nov 2021 - Jan 2022 |
-| Software Engineer (Backend) | Internship | [Wilov](https://wilov.co.id/) | May 2021 - Aug 2021 |
+ My other profiles: https://samuelswandi.com ; https://gitlab.informatika.org/13520075 ; https://leetcode.com/samuelswandi/  <br>
 
-## Organizational Experiences
-| Roles | Type | Company/Institution | Duration |
-| --- | --- | --- | --- |
-| Chief Of Technology | Part-time | [Internnet Indonesia](http://www.internnetindonesia.com/) | Oct 2021 - Present |
-| Software Engineer Team Lead | Part-time | [IT Fest - Arkavidia](https://www.instagram.com/arkavidia/) | Dec 2022 - Feb 2023 |
-| Software Engineer Team Lead | Part-time | [Ganesha ICC](https://www.ganeshaicc.web.id/) | Nov 2021 - Jan 2022 |
- 
 ## My daily language
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
