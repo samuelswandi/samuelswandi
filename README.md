@@ -1,6 +1,6 @@
 # Hi, I am Samuel Christopher Swandi, CS student at *ITB*
 I'm highly passionate about programming, mainly in full-stack development. I am also in the top 1% on IEEExtreme 16.0 & an Honorable mention of the National Hackathon.<br>
- My other profiles: https://samuelswandi.com ; https://gitlab.informatika.org/13520075 ; https://leetcode.com/samuelswandi/  <br>
+ My other profiles: https://linkedin.com/in/samuelswandi ; https://gitlab.informatika.org/13520075 ; https://leetcode.com/samuelswandi/  <br>
 
 ## My daily language
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
