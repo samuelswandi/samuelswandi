@@ -1,7 +1,8 @@
 # Hi, I am Samuel Christopher Swandi!
-I'm highly passionate about programming, mainly in full-stack development. I am also in the top 1% on IEEExtreme 16.0 & an Honorable mention of the National Hackathon.<br>
-My other profiles: https://linkedin.com/in/samuelswandi ; https://gitlab.informatika.org/13520075 ; https://leetcode.com/samuelswandi/  <br>
+I'm highly passionate about programming, mainly in full-stack & game development. I am also in the top 1% on IEEExtreme 16.0 & an Favourite winner of the National Hackathon.<br>
+I'm currently working on API integration @ [Traveloka](https://www.traveloka.com/en-id) while also maintaining private Red Dead Redemption 2 private server, [Neverland](https://servers.redm.gg/servers/detail/eyxvja) <br>
 
-My social media:
+My social media: <br> <br>
+[<img src="https://img.shields.io/badge/leetcode-00000f?style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/samuelswandi/)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/samuelswandi/)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/samuelswandi/)
