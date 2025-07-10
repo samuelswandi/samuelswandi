@@ -9,6 +9,6 @@ I'm currently working on API integration @ [Traveloka](https://www.traveloka.com
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelswandi&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelswandi&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelswandi" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelswandi&show_icons=true" alt="GitHub Stats">
 </p>
