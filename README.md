@@ -5,10 +5,3 @@ I'm currently working on API integration @ [Traveloka](https://www.traveloka.com
 
 [<img src="https://img.shields.io/badge/leetcode-00000f?style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/samuelswandi/)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/samuelswandi/)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/samuelswandi/)
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelswandi" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelswandi&show_icons=true" alt="GitHub Stats">
-</p>
